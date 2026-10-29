@@ -1,0 +1,2 @@
+How to stop a systemctl service:
+sudo systemctl stop glasses.service
